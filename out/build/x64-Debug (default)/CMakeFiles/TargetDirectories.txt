@@ -1,0 +1,3 @@
+D:/SWDevelopment/algorithms/algorithms/out/build/x64-Debug (default)/CMakeFiles/algorithms.dir
+D:/SWDevelopment/algorithms/algorithms/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/SWDevelopment/algorithms/algorithms/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
